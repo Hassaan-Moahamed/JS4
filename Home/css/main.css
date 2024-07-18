@@ -1,0 +1,14 @@
+.navbar-edit{
+    background-color:  #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+body
+{
+    background-color: #24353F;
+}
+.editBox{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.spacem{
+    margin-top: 200px;
+}

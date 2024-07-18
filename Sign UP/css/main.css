@@ -1,0 +1,25 @@
+body
+{
+    background-color: #24353F;
+}
+.form-control{
+    background-color: #24353F;
+    color: white;
+   
+}
+h1{
+    color: #17a2b8;
+}
+
+.SiUP{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    
+}
+
+.form-control:focus {
+    color: white;
+    background-color: #24353F;
+    border-color: #80bdff;
+    outline: 0;
+     box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
