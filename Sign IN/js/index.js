@@ -33,7 +33,7 @@ function correctLogIn(){
                 Alertsucc.classList.replace('d-none','d-block');
                 Alertemail.classList.replace('d-block','d-none')
                 localStorage.setItem('username',usersList[i].code);
-           window.location.href="file:///C:/Users/PC/OneDrive/Desktop/js%20assignment%204/Home/index.html";
+           window.location.href="file:///C:/Users/PC/OneDrive/Desktop/js%20assignment%204/index.html";
             }
             else{
                 Alertemail.classList.replace('d-none','d-block')
